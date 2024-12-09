@@ -6,7 +6,7 @@ This is a React web application that displays a gallery of 6 random dog images f
 
 ## Features
 
-- Display a gallery of 6 random dog images
+- Display a gallery of 6 random dog images (Note that - we only have consided jpeg|jpg|gif|png type of images. So refresh button will diplay upto 6 images) 
 - Favorite one or more dog images
 - Refresh button to load new images
 - Responsive design using Flexbox
